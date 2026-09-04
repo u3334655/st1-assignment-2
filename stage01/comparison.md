@@ -18,3 +18,5 @@ Some homebrew examples may include:
 - What happens if the person booking the appointment is not the patient? (e.g. parent / legal guardian)
 ## What requirements are unclear?
 * Do we care about how long the appointments are, or are they all the same length (so we don't need to record this)?
+* Do we also need to communicate with the client (e.g. email their booking details to them), or will this exclusively be used inside the clinic?
+*
