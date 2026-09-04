@@ -1,0 +1,1 @@
+# Please don't paste code into a PDF. The formatting gets screwed up, and random linebreaks get inserted, which creates syntax errors in python. I humbly request that you add the python examples as separate files within the module.
